@@ -20,4 +20,4 @@ https://www.kaggle.com/ealaxi/paysim1
 ![image](https://user-images.githubusercontent.com/10263373/126524965-5d5a0f5b-7a09-4892-82b8-6f90366b66dc.png)
 ![image](https://user-images.githubusercontent.com/10263373/126525015-9a6d2d08-7529-4ad1-b8cf-a0b6e1b69998.png)
 
-**The high scores from supervised model are used for investigation. As a next step we analyse the observations that have slightly lower scores but show abnormal behaviour in the unsupervised model. Majority of those transactions are also seen as fraudulent so the number of false negatives are decreased with this hybrid approach.**
+**Conclusion: The high scores from supervised model are selected for fraud investigation (95% of the selected group are fraudulent and this group includes 90% of the overall fraudulent transactions). In the final step, we analyse the observations that have slightly lower scores but show abnormal behaviour in the unsupervised model. Majority of those transactions are also seen as fraudulent so the number of false negatives are decreased with this hybrid approach.**
